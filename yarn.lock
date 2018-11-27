@@ -131,12 +131,12 @@
     traceur "0.0.105"
     uglify-js "^2.6.1"
 
-"@cliqz/adblocker@^0.2.1":
-  version "0.2.1"
-  resolved "https://registry.yarnpkg.com/@cliqz/adblocker/-/adblocker-0.2.1.tgz#9545d185dad832e3dcc9605a5b260f2b1a8234fc"
-  integrity sha512-fPAg7Nh1zLneuBYtuiSsS/o30nbFhWgd/EVoaSsPwqpweCWbUwTT+zMkZBoVEtPTk6Y9XF0reqEIQ0Uf07t7RQ==
+"@cliqz/adblocker@^0.3.0":
+  version "0.3.0"
+  resolved "https://registry.yarnpkg.com/@cliqz/adblocker/-/adblocker-0.3.0.tgz#c16c0a09b949ee369d232409cb0eac8d7ec0795b"
   dependencies:
     tldts "^3.0.0"
+    tslib "^1.9.3"
 
 "@mrmlnc/readdir-enhanced@^2.2.1":
   version "2.2.1"
